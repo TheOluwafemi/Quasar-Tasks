@@ -1,6 +1,5 @@
-# todo (todo)
-
-A Quasar Framework app
+# Quasar-Tasks
+A Quasar demo app, for web, desktop and mobile.
 
 ## Install the dependencies
 ```bash
